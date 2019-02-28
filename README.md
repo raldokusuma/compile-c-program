@@ -11,7 +11,7 @@ int main(){
 }
 ```
 
-###Compiling
+### Compiling
 `gcc -o {outfile} {infile}`
 
 ```bash
